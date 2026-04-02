@@ -1,0 +1,5 @@
+D:\Project_Publish\METALGEAR_REDEMPTION.exe
+D:\Project_Publish\METALGEAR_REDEMPTION.dll
+D:\Project_Publish\METALGEAR_REDEMPTION.deps.json
+D:\Project_Publish\METALGEAR_REDEMPTION.runtimeconfig.json
+D:\Project_Publish\METALGEAR_REDEMPTION.pdb
