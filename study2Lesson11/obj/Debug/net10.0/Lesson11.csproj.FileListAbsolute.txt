@@ -1,0 +1,14 @@
+D:\VS_Project\CsharpStudy2\Lesson11\bin\Debug\net10.0\Lesson11.exe
+D:\VS_Project\CsharpStudy2\Lesson11\bin\Debug\net10.0\Lesson11.deps.json
+D:\VS_Project\CsharpStudy2\Lesson11\bin\Debug\net10.0\Lesson11.runtimeconfig.json
+D:\VS_Project\CsharpStudy2\Lesson11\bin\Debug\net10.0\Lesson11.dll
+D:\VS_Project\CsharpStudy2\Lesson11\bin\Debug\net10.0\Lesson11.pdb
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.AssemblyInfoInputs.cache
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.AssemblyInfo.cs
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.csproj.CoreCompileInputs.cache
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.dll
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\refint\Lesson11.dll
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.pdb
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\Lesson11.genruntimeconfig.cache
+D:\VS_Project\CsharpStudy2\Lesson11\obj\Debug\net10.0\ref\Lesson11.dll
